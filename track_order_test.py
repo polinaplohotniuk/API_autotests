@@ -1,3 +1,5 @@
+# Полина Плохотнюк, 14-я когорта — Финальный проект. Инженер по тестированию плюс
+
 import sender_stand_requests
 def get_track_number_of_order():
     track_number = sender_stand_requests.post_new_order() #сохраняем ответ при создании нового заказа
